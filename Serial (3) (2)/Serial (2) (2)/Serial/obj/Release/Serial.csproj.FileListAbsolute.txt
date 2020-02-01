@@ -1,0 +1,26 @@
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\bin\Release\Serial.exe
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\bin\Release\Serial.pdb
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Release\Serial.Connect.resources
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Release\Serial.Form1.resources
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Release\Serial.Properties.Resources.resources
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Release\Serial.csproj.GenerateResource.Cache
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Release\Serial.exe
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Release\Serial.pdb
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\bin\Release\Serial.exe
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\bin\Release\Serial.pdb
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Release\Serial.csprojResolveAssemblyReference.cache
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Release\Serial.Connect.resources
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Release\Serial.Form1.resources
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Release\Serial.Properties.Resources.resources
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Release\Serial.csproj.GenerateResource.Cache
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Release\Serial.exe
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Release\Serial.pdb
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\bin\Release\Serial.exe.config
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\bin\Release\Serial.exe
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\bin\Release\Serial.pdb
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\obj\Release\Serial.Connect.resources
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\obj\Release\Serial.Form1.resources
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\obj\Release\Serial.Properties.Resources.resources
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\obj\Release\Serial.csproj.GenerateResource.Cache
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\obj\Release\Serial.exe
+F:\4학년 1학기\종합 프로젝트\Serial (2) (2)\Serial\obj\Release\Serial.pdb

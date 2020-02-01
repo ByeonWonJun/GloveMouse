@@ -1,0 +1,35 @@
+D:\실습\C#\Serial\Serial\bin\Debug\Serial.exe
+D:\실습\C#\Serial\Serial\bin\Debug\Serial.pdb
+D:\실습\C#\Serial\Serial\obj\Debug\ResolveAssemblyReference.cache
+D:\실습\C#\Serial\Serial\obj\Debug\Serial.Form1.resources
+D:\실습\C#\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+D:\실습\C#\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.Cache
+D:\실습\C#\Serial\Serial\obj\Debug\Serial.exe
+D:\실습\C#\Serial\Serial\obj\Debug\Serial.pdb
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\bin\Debug\Serial.exe
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\bin\Debug\Serial.pdb
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\obj\Debug\Serial.Form1.resources
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\obj\Debug\Serial.Properties.Resources.resources
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\obj\Debug\Serial.csproj.GenerateResource.Cache
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\obj\Debug\Serial.exe
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\obj\Debug\Serial.pdb
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\obj\Debug\Serial.csprojResolveAssemblyReference.cache
+F:\4학년 1학기\종합 프로젝트\Serial (2)\Serial\obj\Debug\Serial.Connect.resources
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\bin\Debug\Serial.exe
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\bin\Debug\Serial.pdb
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Debug\Serial.csprojResolveAssemblyReference.cache
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Debug\Serial.Connect.resources
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Debug\Serial.Form1.resources
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Debug\Serial.csproj.GenerateResource.Cache
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Debug\Serial.exe
+C:\Users\wonjun\Desktop\Serial (2) (2)\Serial\obj\Debug\Serial.pdb
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\bin\Debug\Serial.exe
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\bin\Debug\Serial.pdb
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Debug\Serial.csprojResolveAssemblyReference.cache
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Debug\Serial.Connect.resources
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Debug\Serial.Form1.resources
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Debug\Serial.csproj.GenerateResource.Cache
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Debug\Serial.exe
+C:\Users\wonjun\Desktop\종설(내꺼)\Serial (2) (2)\Serial\obj\Debug\Serial.pdb
